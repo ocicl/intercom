@@ -1,0 +1,10 @@
+* intercom
+
+high-level bidirectional communication channel between javascript and lisp+hunchentoot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/madnificent/intercom.git   |
+| commit  | 1d7c2a9  |
+| systems | intercom |
+|---------+-------------------------------------------|
+
